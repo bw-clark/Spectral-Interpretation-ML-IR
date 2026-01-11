@@ -19,11 +19,11 @@ For more information about this project please refer to the project_report.pdf w
 
 This repository contains three codes: "load.ipynb", "project_implementation", and "spectrum_interpret.py". 
 
-"load.ipynb" contains the code necessary to convert *.JCAMP files into the csv file "Full_File.csv" including normalization and interpolation to bin energy values. 
+- "load.ipynb" contains the code necessary to convert *.JCAMP files into the csv file "Full_File.csv" including normalization and interpolation to bin energy values. 
 
-"project_implementation" is a jupyter notebook showing the data science machine learning pipeline used to conduct this study as well as an assortment of tables and figures including correlation analysis, performance scores, and importance features. 
+- "project_implementation" is a jupyter notebook showing the data science machine learning pipeline used to conduct this study as well as an assortment of tables and figures including correlation analysis, performance scores, and importance features. 
 
-"spectrum_interpret.py" is an object oriented version of the project allowing users more control over which models to fit and data to load. This code can be imported and lets you use my machine learning visualization and fitting approach on your own IR absorbance spectra. 
+- "spectrum_interpret.py" is an object oriented version of the project allowing users more control over which models to fit and data to load. This code can be imported and lets you use my machine learning visualization and fitting approach on your own IR absorbance spectra. 
 
 ## Dependencies
 - Python 3.x
