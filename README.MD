@@ -30,7 +30,7 @@ This repository contains three codes: "load.ipynb", "project_implementation", an
 - Jupyter Notebook
 - Sci-Kit Learn 
 - Scipy 
-
+- Matplotlib
 
 All data are sourced from NIST Webbook: https://webbook.nist.gov/chemistry/
 
